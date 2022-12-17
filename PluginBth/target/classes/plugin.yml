@@ -1,0 +1,9 @@
+name: PluginBTH
+version: '1.0-SNAPSHOT'
+main: com.jarcoder.pbth.pluginbth.PluginBTH
+api-version: 1.19
+author: GodGears
+commands:
+  cumple:
+    description: 'Ingresa tu dia y mes de cumpleaños con numeros ej: [dia 1-31] y [dia 1-31] /cumple 1 1'
+    usage: /<command> <dia 1-31> <mes 1-12>
